@@ -9,7 +9,8 @@ An investor is interested in build a Surf and Ice Cream shop in Oahu, Hawaii. We
  Key differences in weather between June and December:
  
 - The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December. 
-![Untitled22](https://user-images.githubusercontent.com/38533045/137592210-4a78c3f8-84cd-4e35-bc81-6801295feff7.png)
+![Untitled3](https://user-images.githubusercontent.com/38533045/137601607-c3fbb2aa-889a-4bf6-bf59-5079ebb64a45.png)
+
 
 
 - Grouping the data into 12 bins, the histograms visually show how the frequency centers around the two different means. We can see that the most frequent temperature in June is around 75°F, and the most frequent temperatuer in Dec is between 70°F to 75°F. 
