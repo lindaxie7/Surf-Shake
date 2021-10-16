@@ -1,4 +1,4 @@
-# surfs_up
+# Surf N's Shake
 
 ## Overview of Project
 
