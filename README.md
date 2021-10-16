@@ -13,6 +13,8 @@ An investor is interested in build a Surf and Ice Cream shop in Oahu, Hawaii. We
 
 
 - Grouping the data into 12 bins, the histograms visually show how the frequency centers around the two different means. We can see that the most frequent temperature in June is around 75°F, and the most frequent temperatuer in Dec is between 70°F to 75°F. 
+![Untitled26](https://user-images.githubusercontent.com/38533045/137592392-3e183272-99d5-4274-af87-7fde996af814.png)
+
 
 - From the summary of the data, we can conclude that the temperatures differences are reasonably close between June and December. There is not much temperature jumps all year around and the temperature tend to be between 60°F to 85°F. 
 
