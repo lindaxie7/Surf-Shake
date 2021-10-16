@@ -1,19 +1,28 @@
 # surfs_up
 
 ## Overview of Project
-Create a table 
+
+### Purpose
+
 
 ## Results
-Key differences in weather between June and December:
--Created 
 
--Created 
+ Key differences in weather between June and December:
+ 
+- What are 
 
--Created 
+- What can 
 
+- What are 
 
+- What are 
 
 ## Summary
--Created a basic
 
--Two additional queries to perform to gather more weather data for June and December:
+What 
+
+Two additional queries that you would perform to gather more weather data for June and December.
+
+- What 
+
+- What 
