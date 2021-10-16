@@ -1,4 +1,4 @@
-# Surf N's Shake
+# Surf's Up
 
 ## Overview of Project
 An investor is interested in build a Surf and Ice Cream shop in Oahu, Hawaii. We are going to analyzing the weather patterns in June and December in Oahu, Hawaii, in detail is to comparison the temperature in the two extreme months(Summer and Winter), to see if Oahu, Hawaii is a place to open a Surf and Ice Cream shop all year around. 
