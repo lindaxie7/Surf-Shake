@@ -20,7 +20,7 @@
 
 What 
 
-Two additional queries that you would perform to gather more weather data for June and December.
+Two additional queries that you would perform to gather more weather data for June and December:
 
 - What 
 
