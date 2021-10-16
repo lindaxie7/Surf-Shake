@@ -24,6 +24,6 @@ An investor is interested in build a Surf and Ice Cream shop in Oahu, Hawaii. We
 We can infer that a vast majority of the observations were over 67 degrees. If you count up the bins to the right of 67 degrees, you will get about 325 days where it was over 67 degrees when the temperature was observed. The data supports opening a Surf and Ice Cream shop year-round.
 
 Two additional queries that you would perform to gather more weather data for June and December:
-- We include precipitation into the dataframe column, and to analyze if there is much difference in the precipitation levels between June and December.
+- We could include precipitation into the dataframe column, and to analyze the frequence of precipitation level in June and in December, and if there is much difference in the precipitation levels between June and December.
 
-- We include station into the datafram column, to see if we have enough data to make the conclusion. 
+- We could include station into the datafram column, to analyze if we have enough data to make the conclusion. 
